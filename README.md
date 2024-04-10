@@ -28,3 +28,4 @@ A fork of [ebzero](https://github.com/ebzero) Skraper Mix (https://github.com/eb
 - Skrape all of your systems
 - Delete any gamelist.xml files that the skraper created
 - Copy all the created images in the respective "Imgs" folder on the TrimUI SD Card (Ex. Imgs\PCE for PC-Engine & Imgs\PS for Playstation)
+- Enjoy!
