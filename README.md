@@ -18,8 +18,7 @@ A fork of [ebzero](https://github.com/ebzero) Skraper Mix (https://github.com/eb
 ### Set-up Skraper & Skrape with custom mix template
 
 - Download & extract the TSP-MIX archive from the [release page](https://github.com/acatone-git/TSP-MIX/releases)
-- Download & run [Skraper](https://www.skraper.net/)
-- You may want to run through the following guide to familiarize yourself with Skraper: [Retro Game Corps Skraper Guide](https://retrogamecorps.com/2021/04/02/quick-guide-skraper-for-retro-handheld-devices/)
+- Download & run [Skraper](https://www.skraper.net/) - A full in-depth tutorial can be found here: https://www.youtube.com/watch?v=T_Si2iFJw3Q
 - Select "All Systems"
 - In the "Media" tab for Skraper set the Media type to "User Provided Mix"
 - Click the "page" icon next to media type and select the `TSP-Mix.xml` file you downloaded from this repo
