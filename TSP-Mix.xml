@@ -3,7 +3,7 @@
 	<Viewport Color="#00000000" Width="490" Height="710"/>
 	<Drawings>
 		<Item Type="Screenshot">
-			<Display X="45%" Y="100%" Width="200%" Height="100%" Antialiasing="Medium" Anchor="BottomHCenter" Transparency="0.0"/>
+			<Display X="45%" Y="100%" Width="250%" Height="100%" Antialiasing="Medium" Anchor="BottomHCenter" Transparency="0.0"/>
 			<Fallback Type="ScreenshotTitle">
 				<Fallback Type="SystemWallPaper">
 					<Children Reference="Parent">
