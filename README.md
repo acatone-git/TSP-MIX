@@ -15,7 +15,7 @@ A fork of [ebzero](https://github.com/ebzero) Skraper Mix (https://github.com/eb
 
 ## Instructions  
 
-### Set-up Skraper and Skrape with custom mix template
+### Set-up Skraper & Skrape with custom mix template
 
 - Download the TSP-MIX archive from the [release page](https://github.com/acatone-git/TSP-MIX/releases)
 - Download & run [Skraper](https://www.skraper.net/)
@@ -25,6 +25,8 @@ A fork of [ebzero](https://github.com/ebzero) Skraper Mix (https://github.com/eb
 - Click the "page" icon next to media type and select the `TSP-Mix.xml` file you downloaded from this repo
 - Set the "Output Folder to: `%ROMROOTFOLDER%\Imgs` and select "Cleanup output folder before generating new medias" checkbox
 - Leave "Resise Width to" "Resize height to" and "Keep image ratio" blank.
+- Your Skraper screen should look like this:
+  ![Skraper](https://github.com/acatone-git/TSP-MIX/assets/67967964/30ce71b6-9f4c-429b-bd35-aa54420d841f)
 - Skrape all of your systems
 - Delete any gamelist.xml files that the skraper created
 - Copy all the created images in the respective "Imgs" folder on the TrimUI SD Card (Ex. Imgs\PCE for PC-Engine & Imgs\PS for Playstation)
