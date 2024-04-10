@@ -4,7 +4,7 @@
 
 ## About
 
-A fork of [ebzero](https://github.com/ebzero) Skraper Mix for the TrimUI Smart Pro
+A fork of [ebzero](https://github.com/ebzero) Skraper Mix (https://github.com/ebzero/garlic-onion-skraper-mix) for the TrimUI Smart Pro
 
 ## Examples
 
