@@ -22,4 +22,4 @@ A fork of [ebzero](https://github.com/ebzero) Skraper Mix for the TrimUI Smart P
 - Leave "Resise Width to" "Resize height to" and "Keep image ratio" blank.
 - Skrape all of your systems
 - Delete any gamelist.xml files that the skraper created
-- Copy 
+- Copy all the created images in the respective "Imgs" folder on the TrimUI SD Card (Ex. Imgs\PCE for PC-Engine & Imgs\PS for Playstation)
