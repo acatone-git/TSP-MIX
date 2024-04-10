@@ -2,9 +2,11 @@
 
 ![Demo](https://github.com/acatone-git/TSP-MIX/assets/67967964/b091f05f-2d60-4443-a360-c3823e97cee5)
 
-## About
+## About / Examples
 
 A fork of [ebzero](github.com/ebzero) Skraper Mix for the TrimUI
+
+![Example-1](https://github.com/acatone-git/TSP-MIX/assets/67967964/3703c516-9885-4d2e-ba6b-df5ab5e09c41) ![Example-2](https://github.com/acatone-git/TSP-MIX/assets/67967964/c7f43375-2a7e-4562-a319-aa1ea96a6835)
 
 ## Instructions  
 
