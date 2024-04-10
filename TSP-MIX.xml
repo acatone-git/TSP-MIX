@@ -1,9 +1,10 @@
-﻿<ImageComposition xsi:noNamespaceSchemaLocation="https://www.skraper.net/ImageComposition.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<Information ShortName="TSP Mix" LongName="TrimUI Smart Pro Mix" Description="Full Height Mix for TrimUI / Tomato OS" Author="EbZero (Edited by AC)"/>
+<ImageComposition xsi:noNamespaceSchemaLocation="https://www.skraper.net/ImageComposition.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Information ShortName="TSP Mix" LongName="TrimUI Smart Pro Mix" Description="Skraper Mix for TrimUI / Tomato OS" Author="EbZero (Edited by AC)"/>
 	<Viewport Color="#00000000" Width="490" Height="710"/>
 	<Drawings>
+		
 		<Item Type="Screenshot">
-			<Display X="45%" Y="100%" Width="250%" Height="100%" Antialiasing="Medium" Anchor="BottomHCenter" Transparency="0.0"/>
+			<Display X="45%" Y="100%" Width="200%" Height="100%" Antialiasing="Medium" Anchor="BottomHCenter" Transparency="0.0"/>
 			<Fallback Type="ScreenshotTitle">
 				<Fallback Type="SystemWallPaper">
 					<Children Reference="Parent">
@@ -12,6 +13,7 @@
 				</Fallback>
 			</Fallback>
 		</Item>
+		
 		<Item Type="Wheel">
 			<Display X="50%" Y="2%" Width="95%" Height="25%" Anchor="TopHCenter" Transparency="100"/>
 			<Children Reference="Parent">
@@ -20,6 +22,7 @@
 				</Item>
 			</Children>
 		</Item>
+		
 		<Item Type="Wheel" TestOnly="true">
 			<Display X="50%" Y="2%" Width="95%" Height="25%" Anchor="TopHCenter" Transparency="100"/>
 			<Fallback Type="Text" Text="%name%" TextColor="#FFFFFFFF" FontFile="OpenSans_SemiCondensed-ExtraBoldItalic.ttf" TextAlign="VCenterHCenter" Transparency="100">
@@ -30,9 +33,11 @@
 				</Children>
 			</Fallback>
 		</Item>
+		
 		<Item Type="Wheel">
 			<Display X="50%" Y="2%" Width="95%" Height="25%" Anchor="TopHCenter"/>
 			<Fallback Type="Text" Text="%name%" TextColor="#FFFFFFFF" FontFile="OpenSans_SemiCondensed-ExtraBoldItalic.ttf" TextAlign="VCenterHCenter"/>
 		</Item>
+		
 	</Drawings>
 </ImageComposition>
