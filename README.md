@@ -5,11 +5,13 @@
 ## About
 
 A fork of [ebzero](https://github.com/ebzero) Skraper Mix for the TrimUI Smart Pro
+
 ## Examples
 
 ![Example-1](https://github.com/acatone-git/TSP-MIX/assets/67967964/3703c516-9885-4d2e-ba6b-df5ab5e09c41)
 ![Example-2](https://github.com/acatone-git/TSP-MIX/assets/67967964/6c5312a5-4213-4a7e-a86e-0e1c72a9ac14)
 ![Example-3](https://github.com/acatone-git/TSP-MIX/assets/67967964/b51bf7ef-5f56-46b6-af06-b5c0dda68c96)
+![Example-4](https://github.com/acatone-git/TSP-MIX/assets/67967964/2a5257ee-077f-42c6-adf9-19df280b4df4)
 
 ## Instructions  
 
