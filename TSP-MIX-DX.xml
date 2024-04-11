@@ -1,10 +1,10 @@
-﻿<ImageComposition xsi:noNamespaceSchemaLocation="https://www.skraper.net/ImageComposition.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<ImageComposition xsi:noNamespaceSchemaLocation="https://www.skraper.net/ImageComposition.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Information ShortName="TSP Mix DX" LongName="TrimUI Smart Pro Mix - Detailed" Description="Skraper Mix for TrimUI / Tomato OS" Author="EbZero (Edited by AC)"/>
 	<Viewport Color="#00000000" Width="490" Height="710"/>
 	<Drawings>
 		
 		<Item Type="Screenshot">
-			<Display X="45%" Y="100%" Width="250%" Height="100%" Antialiasing="Medium" Anchor="BottomHCenter" Transparency="0.0"/>
+			<Display X="42%" Y="90%" Width="250%" Height="100%" Antialiasing="Medium" Anchor="BottomHCenter" Transparency="0.0"/>
 			<Fallback Type="ScreenshotTitle">
 				<Fallback Type="SystemWallPaper">
 					<Children Reference="Parent">
@@ -50,15 +50,15 @@
 		<Item Type="NoResource">
 		  <Children>
 		  <Item Type="Text" Text="%publisher%" TextColor="#FFFFFFFF" FontFile="Bungee-Regular.ttf" TextAlign="VCenterHCenter" Transparency="100">
-			  <Display X="50%" Y="96%" Width="80%" Height="60" Anchor="BottomHCenter" />
+			  <Display X="50%" Y="98%" Width="80%" Height="90" Anchor="BottomHCenter" />
 			</Item>			
 		  </Children>
 		</Item>
 		
 		<Item Type="NoResource">
 		  <Children>
-		  <Item Type="Text" Text="%name%" TextColor="#FFFFFFFF" FontFile="Bungee-Regular.ttf" TextAlign="VCenterHCenter" Transparency="100">
-			  <Display X="50%" Y="101%" Width="1000%" Height="50" Anchor="BottomHCenter" />
+		  <Item Type="Text" Text="%genre%" TextColor="#FFFFFFFF" FontFile="Bungee-Regular.ttf" TextAlign="VCenterHCenter" Transparency="100">
+			  <Display X="50%" Y="101%" Width="100%" Height="50" Anchor="BottomHCenter" />
 			</Item>			
 		  </Children>
 		</Item>
