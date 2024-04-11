@@ -15,10 +15,10 @@ A fork of [ebzero](https://github.com/ebzero) Skraper Mix (https://github.com/eb
 
 ## Examples (DX Version)
 
-![Example-DX1](https://github.com/acatone-git/TSP-MIX/assets/67967964/17337a14-b4c8-49fd-810f-5f909c51e767)
-![Example-DX2](https://github.com/acatone-git/TSP-MIX/assets/67967964/42db87ef-5ec1-459b-8973-e309d42de8ea)
-![Example-DX3](https://github.com/acatone-git/TSP-MIX/assets/67967964/18ca5130-3f1c-403a-b62c-4394d88d7007)
-![Example-DX4](https://github.com/acatone-git/TSP-MIX/assets/67967964/c653c23a-3f38-4c69-aa44-752cf97fc2a7)
+![TSP-DX1](https://github.com/acatone-git/TSP-MIX/assets/67967964/2861da5b-7ab9-46ed-ac0b-37ad1b0e7ede)
+![TSP-DX2](https://github.com/acatone-git/TSP-MIX/assets/67967964/66cdc98d-b96f-420b-9c01-ab0fb6050065)
+![TSP-DX3](https://github.com/acatone-git/TSP-MIX/assets/67967964/747f91ea-b8d8-476b-8898-9a7cb2d4d832)
+![TSP-DX4](https://github.com/acatone-git/TSP-MIX/assets/67967964/5dd37d2d-c390-4958-a259-31b601f54fe6)
 
 ## Instructions  
 
