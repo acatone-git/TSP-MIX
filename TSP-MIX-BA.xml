@@ -1,0 +1,55 @@
+﻿<ImageComposition xsi:noNamespaceSchemaLocation="https://www.skraper.net/ImageComposition.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Information ShortName="TSP Mix BA" LongName="TrimUI Smart Pro Mix - Box Art" Description="Skraper Mix for TrimUI / Tomato OS" Author="EbZero (Edited by AC)"/>
+	<Viewport Color="#00000000" Width="490" Height="710"/>
+	<Drawings>
+		
+		<Item Type="Screenshot">
+			<Display X="36%" Y="100%" Width="250%" Height="100%" Antialiasing="Medium" Anchor="BottomHCenter" Transparency="0.0"/>
+			<Fallback Type="ScreenshotTitle">
+				<Fallback Type="SystemWallPaper">
+					<Children Reference="Parent">
+						<Item Type="Text" Text="No Screenshot!" TextColor="#FFFFFFFF" FontFamilly="Arial" FontStyle="Bold Italic"/>
+					</Children>
+				</Fallback>
+			</Fallback>
+		</Item>
+
+		<Item Type="NoResource">
+			 <Children>
+				<Item Type="LocalFile" LocalFilePath="LowFade_BA.png">
+				<Display X="0" Y="0" Width="490" Height="710" KeepRatio="false" Anchor="TopLeft" Antialiasing="None" />				
+				</Item>
+			</Children>
+		</Item>
+		
+		<Item Type="Wheel">
+			<Display X="50%" Y="2%" Width="95%" Height="25%" Anchor="TopHCenter" Transparency="100"/>
+			<Children Reference="Parent">
+	 			<Item Type="LocalFile" LocalFilePath="BlackGradientShadow.png">
+					<Display X="50%" Y="105%" Width="490" Height="710" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None" Transparency="0"/>
+				</Item>
+			</Children>
+		</Item>
+		
+		<Item Type="Wheel" TestOnly="true">
+			<Display X="50%" Y="2%" Width="95%" Height="25%" Anchor="TopHCenter" Transparency="100"/>
+			<Fallback Type="Text" Text="%name%" TextColor="#FFFFFFFF" FontFile="Bungee-Regular.ttf" TextAlign="VCenterHCenter" Transparency="100">
+				<Children Reference="Parent">
+					<Item Type="LocalFile" LocalFilePath="BlackGradientShadow.png">
+						<Display X="50%" Y="105%" Width="640" Height="480" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None" Transparency="0"/>
+					</Item>
+				</Children>
+			</Fallback>
+		</Item>
+		
+		<Item Type="Wheel">
+			<Display X="50%" Y="2%" Width="95%" Height="25%" Anchor="TopHCenter"/>
+			<Fallback Type="Text" Text="%name%" TextColor="#FFFFFFFF" FontFile="Bungee-Regular.ttf" TextAlign="VCenterHCenter"/>
+		</Item>
+		
+		<Item Type="Box2DFront">
+		<Display X="96%" Y="97%" Antialiasing="None" Transparency="0.9" Width="60%" Height="40%" Anchor="BottomRight" />
+		</Item>
+		
+	</Drawings>
+</ImageComposition> 
