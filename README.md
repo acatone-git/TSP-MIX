@@ -29,7 +29,7 @@ A fork of [ebzero](https://github.com/ebzero) Skraper Mix (https://github.com/eb
 - Download & run [Skraper](https://www.skraper.net/) - A full in-depth tutorial is available here: https://www.youtube.com/watch?v=T_Si2iFJw3Q
 - Select "All Systems"
 - In the "Media" tab for Skraper set the Media type to "User Provided Mix"
-- Click the "page" icon next to media type and select the `TSP-MIX.xml / TSP-MIX-DX.xml` file you downloaded from this repo
+- Click the "page" icon next to media type and select the `TSP-MIX.xml / TSP-MIX-DX.xml / TSP-MIX-BA.xml` file you downloaded from this repo
 - Set the "Output Folder to: `%ROMROOTFOLDER%\Imgs` and select "Cleanup output folder before generating new medias" checkbox
 - Leave "Resise Width to" "Resize height to" and "Keep image ratio" blank.
 - Your Skraper screen should look like this:
