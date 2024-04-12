@@ -10,15 +10,16 @@ A fork of [ebzero](https://github.com/ebzero) Skraper Mix (https://github.com/eb
 
 ![Example-1](https://github.com/acatone-git/TSP-MIX/assets/67967964/3703c516-9885-4d2e-ba6b-df5ab5e09c41)
 ![Example-2](https://github.com/acatone-git/TSP-MIX/assets/67967964/6c5312a5-4213-4a7e-a86e-0e1c72a9ac14)
-![Example-3](https://github.com/acatone-git/TSP-MIX/assets/67967964/b51bf7ef-5f56-46b6-af06-b5c0dda68c96)
-![Example-4](https://github.com/acatone-git/TSP-MIX/assets/67967964/2a5257ee-077f-42c6-adf9-19df280b4df4)
 
 ## Examples (DX Version)
 
 ![TSP-DX1](https://github.com/acatone-git/TSP-MIX/assets/67967964/9ca1e2f5-5967-4452-8521-543e31ace507)
 ![TSP-DX2](https://github.com/acatone-git/TSP-MIX/assets/67967964/7568476f-3654-40d5-9522-ed4297c652e4)
-![TSP-DX3](https://github.com/acatone-git/TSP-MIX/assets/67967964/23c591c5-ea2f-4e37-b612-5a0008d88b01)
-![TSP-DX4](https://github.com/acatone-git/TSP-MIX/assets/67967964/3b750139-227e-4b68-ae47-fcbab8ad0219)
+
+## Examples (BA Version)
+
+![TSP-BA-EX1](https://github.com/acatone-git/TSP-MIX/assets/67967964/ec6abb15-6de0-4b14-8a46-e2c71e3e975a)
+![TSP-BA-EX2](https://github.com/acatone-git/TSP-MIX/assets/67967964/3c232f1b-822f-4d1a-b120-0a9aaca270bf)
 
 ## Instructions  
 
