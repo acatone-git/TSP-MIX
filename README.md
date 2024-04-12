@@ -35,6 +35,5 @@ A fork of [ebzero](https://github.com/ebzero) Skraper Mix (https://github.com/eb
 - Your Skraper screen should look like this:
   ![Skraper](https://github.com/acatone-git/TSP-MIX/assets/67967964/30ce71b6-9f4c-429b-bd35-aa54420d841f)
 - Skrape all of your systems
-- Delete any gamelist.xml files that the skraper created
 - Copy all the created images to the respective "Imgs" folder on the TrimUI SD Card (Ex. Imgs\PCE for PC-Engine & Imgs\PS for Playstation)
 - Enjoy!
