@@ -21,6 +21,12 @@ A fork of [ebzero](https://github.com/ebzero) Skraper Mix (https://github.com/eb
 ![TSP-BA-EX1](https://github.com/acatone-git/TSP-MIX/assets/67967964/ec6abb15-6de0-4b14-8a46-e2c71e3e975a)
 ![TSP-BA-EX2](https://github.com/acatone-git/TSP-MIX/assets/67967964/3c232f1b-822f-4d1a-b120-0a9aaca270bf)
 
+### Examples (P8 Variant)
+
+![TSP-P8-EX1](https://github.com/user-attachments/assets/d52fbd12-d15e-4b11-b5d6-05a0baa9d43d)
+![TSP-P8-EX2](https://github.com/user-attachments/assets/7baf02d3-cc8c-4df4-a559-2a63018c5771)
+
+
 ## Instructions  
 
 ### Set-up Skraper & Skrape with custom mix template
