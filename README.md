@@ -1,4 +1,4 @@
-# TrimUI Smart Pro Skraper Mix
+# TrimUI Smart Pro / TrimUI Brick Skraper Mix
 
 ![Demo](https://github.com/acatone-git/TSP-MIX/assets/67967964/b091f05f-2d60-4443-a360-c3823e97cee5)
 
